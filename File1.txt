@@ -2,8 +2,12 @@ Hello World!!
 
 Change : For login features - update existing as well.
 
-Change : to test logout features
+Change : To test logout features
 
-Change : to fix bug1.
+Change : To fix bug1.
 
-Change: by team mate for some feature. To check 3 way merge
+
+Change: By team mate for some feature. To check 3 way merge
+
+Change: To fix bug2
+
