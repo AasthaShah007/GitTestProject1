@@ -1,9 +1,18 @@
-Code to implement CR1
+1.Code to implement CR1
+
 
 1. change for testing slash
 
-2. change to local
+2. change for testing slash
 
-change - by team mate on remote repository.
+3. change to local
 
-change - to test rebase on remote repo. by team mate
+4. change - by team mate on remote repository.
+
+
+5. change - to test rebase on remote repo. by team mate
+
+6. change - to test rebase on my local.
+
+
+
