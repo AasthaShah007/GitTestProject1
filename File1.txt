@@ -1,13 +1,14 @@
 Hello World!!
 
-Change : For login features - update existing as well.
+1.Change : For login features - update existing as well.
 
-Change : To test logout features
+2.Change : To test logout features
 
-Change : To fix bug1.
+3.Change : To fix bug1.
 
 
-Change: By team mate for some feature. To check 3 way merge
+4.Change: By team mate for some feature. To check 3 way merge
 
-Change: To fix bug2
+5.Change: To fix bug2
 
+6.Change : to check rebase hence this change is from team mate1
