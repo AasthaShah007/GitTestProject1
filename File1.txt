@@ -5,3 +5,5 @@ Change : for login features - update existing as well.
 Change : to test logout features
 
 Change : to fix bug1.
+
+Change: to fix bug2
